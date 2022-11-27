@@ -1,0 +1,18 @@
+{
+    "name": "Saveable.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ca0718840f828e54d84ece1e8e66e6bf"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

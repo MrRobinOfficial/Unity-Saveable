@@ -1,0 +1,17 @@
+{
+    "name": "Saveable.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ca0718840f828e54d84ece1e8e66e6bf",
+        "GUID:61d12fb9103908640b10c08ec65dca08"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
