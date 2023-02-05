@@ -20,7 +20,10 @@
 
 Or
 
-* Clone repo and extract to your Unity project folder.
+* Clone repo and extract to your Unity project folder. (**NOTE**: Requires submodules)
+```
+git clone --recurse-submodules https://github.com/MrRobinOfficial/Unity-Saveable
+```
 
 ## Quick guide
 
