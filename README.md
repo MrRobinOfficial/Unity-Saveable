@@ -20,7 +20,7 @@
 
 Or
 
-* Clone repo and extract to your Unity project folder. (**NOTE**: Requires submodules)
+* Clone repo and extract to your Unity project folder.
 ```
 git clone https://github.com/MrRobinOfficial/Unity-Saveable.git
 ```
