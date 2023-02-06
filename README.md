@@ -22,7 +22,7 @@ Or
 
 * Clone repo and extract to your Unity project folder.
 ```
-git clone https://github.com/MrRobinOfficial/Unity-Saveable.git
+$ git clone https://github.com/MrRobinOfficial/Unity-Saveable.git
 ```
 
 ## Quick guide
