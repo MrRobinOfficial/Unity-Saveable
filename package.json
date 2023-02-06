@@ -1,18 +1,19 @@
 {
   "name": "com.mrrobinofficial.saveable",
+  "unity": "2022.1",
+  "version": "0.0.1",
   "displayName": "Saveable",
+  "description": "Provides an modular save system to Unity.",
+  "category": "Saving",
+  "license": "MIT",
   "author": {
     "name": "MrRobinOfficial",
     "url": "https://github.com/MrRobinOfficial"
   },
-  "version": "0.0.1",
-  "unity": "2022.1",
-  "description": "Provides an modular save system to Unity.",
   "keywords": [
     "Save System",
     "Saveable"
   ],
-  "license": "MIT",
-  "category": "Saving",
-  "dependencies": {}
+  "dependencies": {
+  }
 }
